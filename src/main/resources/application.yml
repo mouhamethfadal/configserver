@@ -13,4 +13,3 @@ spring:
           password: ${GIT_PASSWORD}
           default-label: ${CONFIG_DEFAULT_LABEL}
           search-paths: ${CONFIG_SEARCH_PATHS}
-
