@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: blog-config-server
+    name: blogconfigserver
   security:
     user:
       name: ${CONFIG_SERVER_USERNAME}
